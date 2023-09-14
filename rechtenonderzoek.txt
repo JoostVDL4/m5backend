@@ -1,0 +1,8 @@
+
+Create Right: Hiermee heeft een gebruiker toestemming om nieuwe objecten in een database te creeren. Ze kunnen bijvoorbeeld een tabel maken. Dit zou ik nodig hebben als ik een nieuw object moet creeren in een database. Als een hacker toegang heeft tot dit recht, dan kunnen hun ongewenste dingen creeren.
+
+Alter Right: Met dit recht heeft een gebruiker de mogelijkheid om objecten te veranderen, zoals bestaande tabellen. Dit zou ik nodig hebben als ik bijvoorbeeld iets moet wijzigen in de database. Een hacker kan hiermee kwaadaardige veranderingen toebrengen.
+
+Index Right: Een gebruiker kan met dit recht een soort lijst maken waardoor je sneller dingen kan vinden in een database. Een gebruiker kan dan indexen maken en bestaande indexen wijzigen. Dit recht zou ik nodig hebben als ik een index wil maken. Een hacker zou met dit recht de prestaties van een database kunnen verzwakken
+
+Create View Right: Als een gebruiker dit recht heeft, dan kunnen hun nieuwe weergaven maken. Dit is een weergave die is gebaseerd op de query resultaten. Weergaven worden gebruikt om moeilijke query's te versimpeld weer te geven. Dit zou ik nodig hebben als ik als ik de query's wil versimpelen. Een hacker zou bijvoorbeeld gevoelige informatie in een weergave neerzetten met dit recht
