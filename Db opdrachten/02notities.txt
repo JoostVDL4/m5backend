@@ -1,0 +1,10 @@
+Mediamarkt
+Straat (string) = Oosterdokskade
+Huisnummer (integer) = 67
+Postcode(string)  = 1011 DL
+Stad (string) = Amsterdam
+
+Primary key = Iets unieks
+Not null = accepteerd geen null waardes
+Unsigned= dan kan je geen negatieve waardes invullen
+Unique = Zorgt ervoor dat alle waardes in een column verschillend zijn, een primary key heeft dit automatisch
