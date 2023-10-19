@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`gamer` (
   `accountAge` VARCHAR(45) NULL,
   `games_gameName` INT NOT NULL,
   PRIMARY KEY (`username`),
-  INDEX `fk_gamer_games_idx` (`games_gameName` ASC) VISIBLE,
+  INDEX `fk_gamer_games_idx` (`games_gameName` ASC),
   CONSTRAINT `fk_gamer_games`
     FOREIGN KEY (`games_gameName`)
     REFERENCES `mydb`.`games` (`gameName`)
