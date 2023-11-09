@@ -8,7 +8,7 @@ $envSettings = [];
 $databaseServer = $envSettings["DB_HOST"];
 $user =  $envSettings["DB_USER"];
 $pass =  $envSettings["DB_PASSWORD"];
-$schema = $envSettings["mydb"];
+$schema = $envSettings["DB_SCHEMA_NAME"];
 
 
 
